@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Egypt To Visit</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="signin">Sign in</string>
+    <string name="siignup">Sign up</string>
+    <string name="forgetpassword">Forgot Password ?</string>
+</resources>
