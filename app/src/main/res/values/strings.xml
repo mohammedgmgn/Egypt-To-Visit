@@ -5,4 +5,5 @@
     <string name="signin">Sign in</string>
     <string name="siignup">Sign up</string>
     <string name="forgetpassword">Forgot Password ?</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
